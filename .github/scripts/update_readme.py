@@ -22,7 +22,7 @@ def main() -> None:
     data = json.loads(
         gh_api(
             "users/x-dc-coder/repos?per_page=100&sort=updated&direction=desc",
-            "--jq", ".[] | {name, description, language, html_url, updated_at}",
+            "--jq", "[.[] | {name, description, language, html_url, updated_at}]",
         )
     )
     # Only public repos are returned without repo scope; skip helper repos.
