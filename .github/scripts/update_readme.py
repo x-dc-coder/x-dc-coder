@@ -21,7 +21,7 @@ def gh_api(*args):
 def main() -> None:
     data = json.loads(
         gh_api(
-            "user/repos?per_page=100&sort=updated&direction=desc",
+            "users/x-dc-coder/repos?per_page=100&sort=updated&direction=desc",
             "--jq", ".[] | {name, description, language, html_url, updated_at}",
         )
     )
