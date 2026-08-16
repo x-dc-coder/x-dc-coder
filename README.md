@@ -19,11 +19,11 @@
 **🕘 最近更新**（每 6 小时自动刷新）
 
 <!--START_SECTION:repos-->
+- [x-dc-coder](https://github.com/x-dc-coder/x-dc-coder) ·  · 2026-08-15
 - [PDFOperation](https://github.com/x-dc-coder/PDFOperation) — 提取、转换PDF文件信息 ·  · 2026-08-15
 - [GetClassSchedule-PythonScript](https://github.com/x-dc-coder/GetClassSchedule-PythonScript) — 你的课程表小助手 · Python · 2026-08-15
 - [StoriesSystem](https://github.com/x-dc-coder/StoriesSystem) — 故事管理系统 · Java · 2026-08-15
 - [CodeSpaceDemo](https://github.com/x-dc-coder/CodeSpaceDemo) — 代码空间测试 ·  · 2026-08-15
-- [DC-SY](https://github.com/x-dc-coder/DC-SY) — 个人资料 ·  · 2026-08-15
 <!--END_SECTION:repos-->
 
 **📫 Contact**
