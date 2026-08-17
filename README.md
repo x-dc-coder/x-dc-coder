@@ -19,7 +19,7 @@
 **🕘 最近更新**（每 6 小时自动刷新）
 
 <!--START_SECTION:repos-->
-- [x-dc-coder](https://github.com/x-dc-coder/x-dc-coder) ·  · 2026-08-16
+- [x-dc-coder](https://github.com/x-dc-coder/x-dc-coder) ·  · 2026-08-17
 - [github-release-monitor](https://github.com/x-dc-coder/github-release-monitor) — A powerful, self-hostable application to automatically monitor GitHub, GitLab and Codeberg repository releases and receive instant email and Apprise notifications, including Telegram, Discord, Slack and many more. · TypeScript · 2026-08-16
 - [PDFOperation](https://github.com/x-dc-coder/PDFOperation) — 提取、转换PDF文件信息 ·  · 2026-08-15
 - [GetClassSchedule-PythonScript](https://github.com/x-dc-coder/GetClassSchedule-PythonScript) — 你的课程表小助手 · Python · 2026-08-15
