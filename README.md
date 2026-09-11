@@ -19,11 +19,11 @@
 **🕘 最近更新**（每 6 小时自动刷新）
 
 <!--START_SECTION:repos-->
+- [CC-Skills](https://github.com/x-dc-coder/CC-Skills) — 面向工程实践的个人技能与自动化工作流仓库，沉淀可复用模板、脚本与规范。 · Python · 2026-09-11
+- [dsh-cognitive-feedback](https://github.com/x-dc-coder/dsh-cognitive-feedback) — AI认知反馈闭环插件 · TypeScript · 2026-09-11
 - [x-dc-coder](https://github.com/x-dc-coder/x-dc-coder) ·  · 2026-09-09
-- [CC-Skills](https://github.com/x-dc-coder/CC-Skills) — 面向工程实践的个人技能与自动化工作流仓库，沉淀可复用模板、脚本与规范。 · Python · 2026-09-09
 - [lab-monitor](https://github.com/x-dc-coder/lab-monitor) · TypeScript · 2026-09-09
 - [dsh-hub-workshop](https://github.com/x-dc-coder/dsh-hub-workshop) ·  · 2026-08-28
-- [github-release-monitor](https://github.com/x-dc-coder/github-release-monitor) — A powerful, self-hostable application to automatically monitor GitHub, GitLab and Codeberg repository releases and receive instant email and Apprise notifications, including Telegram, Discord, Slack and many more. · TypeScript · 2026-08-16
 <!--END_SECTION:repos-->
 
 **📫 Contact**
